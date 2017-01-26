@@ -9,7 +9,7 @@ module.exports = {
   afterInstall: function() {
     var addon = this;
     var bowerPackages = [
-      { name: 'hammer.js', target: '2.0.6' }
+      { name: 'hammer.js', target: 'herom/hammer.js#dirtyfix' }
     ];
     var addonPackages = [
       { name: 'ember-hammertime', target: '1.0.0' }

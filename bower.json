@@ -11,6 +11,6 @@
   },
   "devDependencies": {
     "hammer-time": "1.0.0",
-    "hammer.js": "2.0.6"
+    "hammer.js": "herom/hammer.js#dirtyfix"
   }
 }
